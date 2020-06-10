@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Paaji+2:400,500,600,700,800|Roboto:100,300,400,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap');
+
+html{
+    height: 100%;
+}
+body{
+    min-height: 100%;
+    position: relative;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body,ul,li,p,h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
+
+a:hover{
+    color: unset;
+    text-decoration: none;
+}
+
+
+.logout{
+    color: #555;
+    background-color: transparent;
+    border: none;
+    /* border-left: 1px solid white; */
+    padding: 8px 17px;
+}
+
+nav.bg-light {
+    background-color: #02aadd!important;
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+    color: white !important;
+}
+
+.navbar-light .text-primary {
+    color: #fff!important;
+}
+
+.nav-search .btn {
+    color: #fff;
+    outline-color: #fff !important;
+    background: #ffffff14;
+    border-color: #fff;
+}
+
+.margin-top-20{
+    margin-top: 20px;
+}
+
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+
+.feature-img-box{
+    height: 174px;
+}
+
+.feature-img{
+    max-height: 174px;
+}
+
+footer{
+    padding: 12px 0;
+    /*margin-top: 20px;*/
+    color: #fff;
+    background: #02aadd;
+}
+
+.cart-icon{
+    font-size: 19px;
+}
+
+.hidden{
+    display:none;
+}
+
+.carousel-item{}
+.carousel-item .carousel-caption{}
+.carousel-item .carousel-caption h5{}
+.carousel-item .carousel-caption .btn{}
+
+
+/*gend*/
+
+
+
+/*products start*/
+.main_products .card-title{
+    margin-bottom: 5px;
+    font-size: 17px;
+}
+
+.main_products .card-body{
+    padding-top: 0 !important;
+}
+
+.main_products .btn{
+    font-size: 15px;
+    margin: 0 auto;
+    margin-top: 9px;
+} 
+
+.carousel-item {
+    /* height: 412px; */
+}
+
+.carousel-control-next .fa{
+    color: #00000085;
+    font-size: 21px;    
+}
+
+.carousel-control-prev .fa{
+    color: #00000085;
+    font-size: 21px;
+}
+
+/*products end*/
+.content{
+    height: unset;
+}
+
+.widget .badge{
+    font-size: 13px;
+    vertical-align: super;
+}
+
+/*checkout page start*/
+.card_payment{
+    border: 1px solid #eee;
+    background: #02aadd26;
+    color: black;
+}
+/*checkout page end */
+
+
+
+
+
+
+
+/*
+
+google font html backup code
+
+<link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,500,600,700,800|Roboto:100,300,400,500,700,900&display=swap" rel="stylesheet">
+
+*/
